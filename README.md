@@ -2,13 +2,17 @@
 
 Test the app using this link:
 https://stackblitz-starters-obpzmh.stackblitz.io
+# CWRU-Express-Checkout-React_App
+
+Test the app using this link:
+https://stackblitz-starters-obpzmh.stackblitz.io
 
 
-CWRU Express Checkout React Application
+# CWRU Express Checkout React Application
 Welcome to the CWRU Express Checkout React application! This project is designed to provide a streamlined and user-friendly experience for the Case Western Reserve University community. The application leverages React for the front end and integrates with Firebase for authentication and other functionalities.
 
-Project Structure
-The project structure is organized as follows:
+## Project Structure
+- The project structure is organized as follows:
 
 public: Contains public assets and the HTML template.
 src:
@@ -27,7 +31,8 @@ index.js: Entry point for React rendering.
 style.css: Stylesheet for the application.
 .gitignore: Configuration file to exclude certain files and directories from version control.
 Getting Started
-Follow these steps to set up and run the CWRU Express Checkout React application:
+
+## Follow these steps to set up and run the CWRU Express Checkout React application:
 
 Clone the repository to your local machine.
 Navigate to the project directory using the terminal.
