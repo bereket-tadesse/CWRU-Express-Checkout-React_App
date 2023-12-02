@@ -1,0 +1,34 @@
+{
+  "name": "stackblitz-starters-gne9q8",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "11.11.1",
+    "@emotion/styled": "11.11.0",
+    "@mui/icons-material": "5.14.18",
+    "@mui/material": "5.14.18",
+    "@mui/system": "^5.8.0",
+    "@mui/x-date-pickers": "^6.18.2",
+    "@types/react": "18.2.39",
+    "date-fns": "^2.25.0",
+    "date-fns-jalali": "^2.13.0-0",
+    "dayjs": "^1.11.10",
+    "firebase": "10.7.0",
+    "luxon": "^3.0.2",
+    "moment": "^2.29.4",
+    "moment-hijri": "^2.1.2",
+    "moment-jalaali": "^0.7.4 || ^0.8.0 || ^0.9.0 || ^0.10.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-toastify": "9.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
