@@ -11,23 +11,23 @@ Welcome to the CWRU Express Checkout React application! This project is designed
 ## Project Structure
 - The project structure is organized as follows:
 
-public: Contains public assets and the HTML template.
-src:
-components:
-RASignIn.js: React component for RA (Resident Assistant) sign-in.
-SignIn.js: React component for general user sign-in.
-SignUp.js: React component for user sign-up.
-pages:
-FormPage.js: React component for a generic form page.
-LoginPage.js: React component for the login page.
-RAPage.js: React component for the RA-specific page.
-Wrapper.js: React component for a wrapper or container.
-App.js: The main React component that serves as the entry point for the application.
-firebase.js: Configuration file for Firebase integration.
-index.js: Entry point for React rendering.
-style.css: Stylesheet for the application.
-.gitignore: Configuration file to exclude certain files and directories from version control.
-Getting Started
+- **public:** Contains public assets and the HTML template.
+- **src:**
+  - **components:**
+    - **RASignIn.js:** React component for RA (Resident Assistant) sign-in.
+    - **SignIn.js:** React component for general user sign-in.
+    - **SignUp.js:** React component for user sign-up.
+  - **pages:**
+    - **FormPage.js:** React component for a generic form page.
+    - **LoginPage.js:** React component for the login page.
+    - **RAPage.js:** React component for the RA-specific page.
+    - **Wrapper.js:** React component for a wrapper or container.
+  - **App.js:** The main React component that serves as the entry point for the application.
+  - **firebase.js:** Configuration file for Firebase integration.
+  - **index.js:** Entry point for React rendering.
+  - **style.css:** Stylesheet for the application.
+- **.gitignore:** Configuration file to exclude certain files and directories from version control.
+
 
 ## Follow these steps to set up and run the CWRU Express Checkout React application:
 
