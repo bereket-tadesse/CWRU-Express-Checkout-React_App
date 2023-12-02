@@ -28,13 +28,15 @@ Welcome to the CWRU Express Checkout React application! This project is designed
   - **style.css:** Stylesheet for the application.
 - **.gitignore:** Configuration file to exclude certain files and directories from version control.
 
+## Getting Started
 
-## Follow these steps to set up and run the CWRU Express Checkout React application:
+Follow these steps to set up and run the CWRU Express Checkout React application:
 
-Clone the repository to your local machine.
-Navigate to the project directory using the terminal.
-Install dependencies using npm install.
-Configure Firebase by updating the credentials in firebase.js.
-Run the application using npm start.
-Firebase Integration
+1. Clone the repository to your local machine.
+2. Navigate to the project directory using the terminal.
+3. Install dependencies using `npm install`.
+4. Configure Firebase by updating the credentials in `firebase.js`.
+5. Run the application using `npm start`.
+
+## Firebase Integration
 This application utilizes Firebase for authentication. Ensure that you have a Firebase project set up and update the configuration in firebase.js with your Firebase credentials.
