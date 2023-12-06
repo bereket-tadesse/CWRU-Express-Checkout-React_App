@@ -7,6 +7,9 @@ https://stackblitz-starters-obpzmh.stackblitz.io
 
 ![image](https://github.com/bereket-tadesse/CWRU-Express-Checkout-React_App/assets/84309246/f48e226c-0c34-4022-bcb5-bcbd3c30115b)
 
+![image](https://github.com/bereket-tadesse/CWRU-Express-Checkout-React_App/assets/84309246/3fd96e90-c527-49fd-8639-28096642b954)
+
+![image](https://github.com/bereket-tadesse/CWRU-Express-Checkout-React_App/assets/84309246/602402fe-45e5-4f1e-84d2-0a95e8b3d240)
 
 # CWRU Express Checkout React Application
 Welcome to the CWRU Express Checkout React application! This project is designed to provide a streamlined and user-friendly experience for the Case Western Reserve University community. The application leverages React for the front end and integrates with Firebase for authentication and other functionalities.
