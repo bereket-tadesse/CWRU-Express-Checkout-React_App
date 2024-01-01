@@ -6,7 +6,7 @@ import { toast } from 'react-toastify';
 import LoginIcon from '@mui/icons-material/Login';
 
 function SignIn({email, password, updateLoginVisible, updateRAPageVisible}) {
-
+ 
   const handleSignIn = () => {
     console.log('click working');
     signInWithEmailAndPassword(auth, email, password)
