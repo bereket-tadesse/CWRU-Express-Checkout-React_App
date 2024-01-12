@@ -1,8 +1,7 @@
  
 # CWRU-Express-Checkout-React_App
 
-Test the app using this link:
-[https://stackblitz-starters-obpzmh.stackblitz.io](https://react-express-checkout-59067.web.app/)
+Test the app using this link:[here](https://react-express-checkout-59067.web.app/)
  
 
 ![image](https://github.com/bereket-tadesse/CWRU-Express-Checkout-React_App/assets/84309246/f48e226c-0c34-4022-bcb5-bcbd3c30115b)
