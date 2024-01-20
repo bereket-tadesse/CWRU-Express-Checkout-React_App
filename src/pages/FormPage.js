@@ -19,7 +19,7 @@ import { Button } from '@mui/material';
 import moment from 'moment';
 import { toast } from 'react-toastify';
 import Checkbox from '@mui/material/Checkbox';
-
+ 
 function FormPage({ updateFormVisible, updateLoginVisible, emailReceived }) {
   // extracting the networkID from the email received from login page for database extraction if user data exists.
   console.log('it issssss rendering');
