@@ -8,7 +8,6 @@ Test the app using this link:[here](https://react-express-checkout-59067.web.app
 
 ![image](https://github.com/bereket-tadesse/CWRU-Express-Checkout-React_App/assets/84309246/602402fe-45e5-4f1e-84d2-0a95e8b3d240)
 
-![image](https://github.com/bereket-tadesse/CWRU-Express-Checkout-React_App/assets/84309246/187745fe-0d90-4eed-8693-bec7b6995c4b)
 
 # CWRU Express Checkout React Application
 Welcome to the CWRU Express Checkout React application! This project is designed to provide a streamlined and user-friendly experience for the Case Western Reserve University community. The application leverages React for the front end and integrates with Firebase for authentication and other functionalities.
