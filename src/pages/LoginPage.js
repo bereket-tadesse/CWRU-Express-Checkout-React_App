@@ -3,7 +3,7 @@ import Box from '@mui/material/Box';
 import InputAdornment from '@mui/material/InputAdornment';
 import TextField from '@mui/material/TextField';
 import AccountCircle from '@mui/icons-material/AccountCircle';
-import Grid from '@mui/material/Grid';
+import Grid from '@mui/material/Grid'; 
 import Paper from '@mui/material/Paper';
 import { useState,useEffect } from 'react';
 import SignUp from '../components/SignUp';
