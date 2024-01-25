@@ -10,10 +10,9 @@ Test the app using this link:[here](https://react-express-checkout-59067.web.app
 
 
 # CWRU Express Checkout React Application
-Welcome to the CWRU Express Checkout React application! This project is designed to provide a streamlined and user-friendly experience for the Case Western Reserve University community. The application leverages React for the front end and integrates with Firebase for authentication and other functionalities.
+This project is designed to provide a streamlined and user-friendly experience for the Case Western Reserve University community. The application leverages React for the front end and integrates with Firebase for authentication and other functionalities.
 
 ## Project Structure
-- The project structure is organized as follows:
 
 - **public:** Contains public assets and the HTML template.
 - **src:**
