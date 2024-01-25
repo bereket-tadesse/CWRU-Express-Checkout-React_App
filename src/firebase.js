@@ -1,7 +1,7 @@
 import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 import { getDatabase } from "firebase/database"; 
-
+ 
 const firebaseConfig = {
   apiKey: 'AIzaSyB6mZRL8Uz9lZtn8pQKFbddnJ1Zdj8O9IQ',
   authDomain: 'react-express-checkout-59067.firebaseapp.com',
